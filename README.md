@@ -1,8 +1,6 @@
 # Jupyter Code Cells to TXT
 
-![PyPI version](https://img.shields.io/pypi/v/jupyter-code-extractor) ![Build Status](https://img.shields.io/github/workflow/status/RealWorga/jupyter-code-extractor/CI) ![License](https://img.shields.io/github/license/RealWorga/jupyter-code-extractor)
-
-<!--https://img.shields.io/github/actions/workflow/status/RealWorga/jupyter-code-extractor/workflow.yml?branch=main-->
+![PyPI version](https://img.shields.io/pypi/v/jupyter-code-extractor) ![Build Status](https://img.shields.io/github/actions/workflow/status/RealWorga/jupyter-code-extractor/workflow.yml?branch=main) ![License](https://img.shields.io/github/license/RealWorga/jupyter-code-extractor)
 
 A simple command-line tool for extracting code cells from Jupyter notebooks. Optionally, it allows extraction of all cell types including markdown.
 
@@ -14,7 +12,6 @@ A simple command-line tool for extracting code cells from Jupyter notebooks. Opt
 - [Requirements](#requirements)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 - [Changelog](#changelog)
 
 ## Installation
@@ -54,13 +51,13 @@ Without the `--all-cells` option, only code cells will be extracted.
 
 ## Contributing
 
-For contributions, please create a fork, make your changes, and submit a pull request. Details on the development setup and guidelines can be found in the `CONTRIBUTING.md` file.
+For contributions, please create a fork, make your changes, and submit a pull request. Details on the development setup and guidelines can be found in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 Once pull requests are approved and merged, maintainers will handle versioning and releases. New releases on GitHub will automatically trigger package updates on PyPI via GitHub Actions.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ## Changelog
 
