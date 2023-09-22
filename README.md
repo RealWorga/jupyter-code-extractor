@@ -6,6 +6,7 @@ A simple command-line tool for extracting code cells from Jupyter notebooks. Opt
 
 ## Table of Contents
 - [Installation](#installation)
+  * [Development Installation](#development-installation)
   * [Local Installation](#local-installation)
 - [Usage](#usage)
 - [Requirements](#requirements)
@@ -15,6 +16,16 @@ A simple command-line tool for extracting code cells from Jupyter notebooks. Opt
 
 ## Installation
 
+## Development Installation
+
+For those contributing and making changes to the codebase, it's often more efficient to install the package in 'editable' mode. This way, changes you make to the source immediately reflect in the installed package.
+
+To install in editable mode:
+```
+python setup.py develop
+```
+
+This will set up a link to your source code, so you won't have to repackage and reinstall every time you make a change.
 ### Local Installation
 
 1. Clean the `dist` directory to prevent old distributions:
