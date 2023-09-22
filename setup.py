@@ -10,4 +10,7 @@ setup(
             'jupyter-code-extractor=extract_code_jupyter.cli:main',
         ],
     },
+    author="Hamed Haghjo",
+    author_email="hamedhaghjo@hotmail.com",
+    url="https://github.com/RealWorga/jupyter-code-extractor",
 )
