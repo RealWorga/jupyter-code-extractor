@@ -7,7 +7,6 @@ A simple command-line tool for extracting code cells from Jupyter notebooks. Opt
 ## Table of Contents
 - [Installation](#installation)
   * [Local Installation](#local-installation)
-  * [PyPI Package Update](#pypi-package-update)
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
